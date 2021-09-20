@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @devina1
+- 👀 I’m interested in plants and computer science
+- 🌱 I’m currently learning android app development and plant identification
+- 📫 How to reach me through damos2@missouriwestern.edu
